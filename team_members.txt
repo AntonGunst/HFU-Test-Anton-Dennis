@@ -1,3 +1,7 @@
 Anton Gunst
 Dennis Wagner
 Jonas Rau
+
+
+
+Workload: -Wo fängt Theta an bei der 3D-Visualisierung
